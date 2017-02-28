@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="kix_editor_status_bar_color">#ff003366</color>
+    <color name="quickoffice_editor_status_bar_color">#ff003366</color>
+    
+</resources>

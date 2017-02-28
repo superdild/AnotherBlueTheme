@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="notification_icon_bg_color">#ff003366</color>
+    <color name="primary_dark_color_light">#ff003366</color>
+    <color name="swipe_refresh_color3">#ff4285f4</color>
+     <color name="notification_promo_color">#ff4285f4</color>
+      <color name="instant_articles_viewer_primary_color">#ff4285f4</color>
+      <color name="locations_tab_strip_selected_color_light">#ff4285f4</color>
+    <color name="material_grey_600">#ff757575</color>
+
+    <color name="material_grey_900">#ff003366</color>
+      <color name="manage_accounts_text_color">#ff003366</color>
+       <color name="background_color_dark">#ff003366</color>
+
+</resources>

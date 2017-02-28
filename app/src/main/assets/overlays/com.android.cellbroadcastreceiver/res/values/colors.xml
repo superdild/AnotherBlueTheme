@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="unread_bgcolor">#ffffffff</color>
+    <color name="read_bgcolor">#ffeeeeee</color>
+    <color name="notification_color">#ffff9800</color>
+    <color name="cell_broadcast_color_primary">#ff003366</color>
+    <!-- colore ActionBar -->
+    <color name="cell_broadcast_color_primary_dark">#ff003366</color>
+    <!-- colore StatusBar menu Impostazioni CellBroadcast -->
+</resources>

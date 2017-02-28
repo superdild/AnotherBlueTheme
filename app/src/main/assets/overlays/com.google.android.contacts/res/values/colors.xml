@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialer_theme_color">#ff003366</color>
+    <color name="dialer_theme_color_dark">#ff003366</color>
+    <color name="action_bar_background">#ff003366</color>
+    <color name="primary_color_dark">#ff003366</color>
+    <color name="primary_color">#ff003366</color>
+    <color name="primary_text_color">#ff003366</color>
+    <color name="secondary_text_color">#ff336699</color>
+    <color name="section_header_text_color">#ff003366</color>
+    <color name="quickcontact_entry_header_text_color">#ff336699</color>
+    <color name="quickcontact_entry_sub_header_text_color">#ff336699</color>
+    <color name="searchbox_text_color">#ff003366</color>
+    <color name="searchbox_hint_text_color">#ff336699</color>
+    <color name="searchbox_background_color">#ffffffff</color>
+    <color name="dialtacts_primary_text_color">#ff003366</color>
+    <color name="dialtacts_secondary_text_color">#ff003366</color>
+    <color name="dialtacts_theme_color">#ff003366</color>
+    <color name="secondary_header_separator_color">#ff336699</color>
+
+    <color name="contextual_selection_bar_status_bar_color">#ff003366</color>
+
+</resources>

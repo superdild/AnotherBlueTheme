@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="conversation_hangout_color">#ff003366</color>
+    <color name="action_bar_background_color">#ff003366</color>
+    <color name="quantum_googgreen700">#ff003366</color>
+    <color name="quantum_googgreen500">#ff003366</color>
+    <color name="promo_button_divider">#aa336699</color>
+    <color name="quantum_bluegrey700">#ff003366</color>
+    <color name="quantum_bluegrey500">#ff003366</color>
+    <color name="quantum_googgreenA400">#ff336699</color>
+    <color name="quantum_vanillagreenA400">#ff336699</color>
+    <color name="quantum_bluegrey800">#ff003366</color>
+    <color name="material_blue_grey_800">#ff003366</color>
+</resources>

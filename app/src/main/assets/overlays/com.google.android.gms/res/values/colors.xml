@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="action_bar_background">#ff003366</color>
+    <color name="material_deep_teal_500">#ff336699</color>
+    <!-- titoli voci menu g -->
+    <color name="material_blue_grey_950">#ff003366</color>
+    <!-- statusBar -->
+	<color name="material_teal_500">#ff003366</color>
+    <color name="material_blue_grey_900">#ff003366</color>
+    <!-- ActionBar -->
+    <color name="material_blue_grey_800">#ff336699</color>
+    <!-- switchbar -->
+
+    <color name="backgroundColor">#ff003366</color>
+    <color name="google_blue_500">#ff003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+
+    <color name="material_google_blue_600">#ff003366</color>
+    <color name="quantum_googblue600">#ff003366</color>
+
+    <color name="nearby_secondary_blue">#ff003366</color>
+    <color name="activity_secondary">#ff003366</color>
+    <color name="material_google_blue_500">#ff003366</color>
+    <color name="gh_google_blue_500">#ff003366</color>
+    <color name="tp_google_blue">#ff003366</color>
+    <color name="udc_g_blue_500">#ff003366</color>
+    <color name="wallet_google_blue">#ff003366</color>
+
+    <color name="activity_primary">#ff003366</color>
+    <color name="udc_g_blue_600">#ff003366</color>
+
+    <color name="common_nexus_primary">#ff003366</color>
+    <color name="common_nexus_primary_dark">#ff003366</color>
+    <color name="common_nexus_secondary">#ff003366</color>
+
+</resources>

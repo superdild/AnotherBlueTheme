@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="volume_panel_background_color">#cc336699</color>
+    <color name="system_primary_color">#cc336699</color>
+    <color name="system_primary_color_translucent">#90aaaaaa</color>
+    <color name="system_secondary_color">#ff003366</color>
+    <color name="system_accent_color">#ff003366</color>
+    <color name="notification_material_background_media_default_color">#ff336699</color>
+    <color name="navigation_bar_icon_color">#dd336699</color>
+    <color name="fab_color">#ff003366</color>
+</resources>

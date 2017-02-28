@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="systemui_theme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#aa003366</item>
+        <item name="android:colorAccent">#ff4285f4</item>
+    </style>
+
+</resources>

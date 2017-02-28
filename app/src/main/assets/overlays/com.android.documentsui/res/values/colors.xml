@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="material_grey_900">#ff003366</color>
+    <color name="material_grey_850">#ff003366</color>
+    <color name="material_grey_800">#ff003366</color>
+    <color name="material_grey_600">#ff003366</color>
+    <color name="material_grey_300">#ffe0e0e0</color>
+    <color name="material_grey_100">#ff003366</color>
+    <color name="material_grey_50">#fffafafa</color>
+    <color name="material_deep_teal_200">#ff003366</color>
+    <color name="material_deep_teal_500">#ff003366</color>
+    <color name="material_blue_grey_800">#ff003366</color>
+    <color name="material_blue_grey_900">#ff003366</color>
+    <color name="material_blue_grey_950">#ff003366</color>
+    <color name="window_background">#fff1f1f1</color>
+    <color name="drawer_background">#fff1f1f1</color>
+    <color name="directory_background">#fff7f7f7</color>
+
+    <color name="primary_dark">#ff003366</color>
+    <color name="primary">#ff003366</color>
+    <color name="accent">#ff003366</color>
+    <color name="accent_dark">#ff003366</color>
+
+
+
+</resources>

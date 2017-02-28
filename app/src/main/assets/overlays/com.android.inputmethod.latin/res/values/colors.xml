@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="key_hint_letter_color_holo">#ff003366</color>
+    <!-- 003366 -->
+    <color name="key_text_color_lxx_light">#ff003366</color>
+    <!-- 003366 -->
+    <color name="key_functional_text_color_lxx_light">#cc003366</color>
+    <!-- 003366 -->
+    <color name="key_text_inactive_color_lxx_light">#b3003366</color>
+    <!-- 003366 -->
+    <color name="key_hint_letter_color_lxx_light">#b3336699</color>
+    <!-- ?? -->
+    <color name="language_on_spacebar_text_color_lxx_light">#b337474f</color>
+    <color name="highlight_color_lxx_light">#ff336699</color>
+    <!-- ?? -->
+    <color name="gesture_trail_color_lxx_light">#ff336699</color>
+    <!-- gesture -->
+    <color name="sliding_key_input_preview_color_lxx_light">#b3ff0000</color>
+    <!--sliding-->
+    <color name="gesture_floating_preview_color_lxx_light">#e6ededed</color>
+    <!-- sfondo della parola che si compone con lo slide -->
+    <color name="highlight_color_lxx_dark">#ff336699</color>
+    <!-- ?? -->
+    <color name="gesture_trail_color_lxx_dark">#ff336699</color>
+    <!-- gesture -->
+    <color name="sliding_key_input_preview_color_lxx_dark">#b30000ff</color>
+    <!-- ?? -->
+    <color name="notification_accent_color">#ff336699</color>
+    <!-- 607d8b -->
+    <color name="theme_primary">#ff003366</color>
+    <color name="theme_primary_dark">#ff003366</color>
+    <color name="theme_accent">#ff003366</color>
+</resources>

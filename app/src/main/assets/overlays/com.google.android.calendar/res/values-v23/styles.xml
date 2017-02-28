@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PreferencesTheme" parent="@android:style/Theme.Material.Light">
+
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#ff003366</item>
+
+    </style>
+
+</resources>

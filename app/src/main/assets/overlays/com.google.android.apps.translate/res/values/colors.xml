@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_blue_with_20pct_black">#ff003366</color>
+    <color name="card_wl_download">#ff003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+    <color name="voice_button_border_tts_active1">#ff003366</color>
+    <color name="voice_button_icon_tts_loading">#ff003366</color>
+    <color name="action_button_red">#ff003366</color>
+    <color name="focused_background_red">#33003366</color>
+    <color name="input_method_color_red">#ff003366</color>
+    <color name="input_method_color_red_light">#77003366</color>
+    <color name="voice_button_back_active">#ff003366</color>
+    <color name="voice_error_color">#ff003366</color>
+    <color name="voice_timer_color">#ff003366</color>
+
+</resources>

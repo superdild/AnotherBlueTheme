@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_main_color_primary_dark">#ff003366</color>
+    <color name="theme_main_actionbar_controls_color">#ffefefef</color>
+    <color name="theme_main_tab_text_color_activated">#fff1f1f1</color>
+    <color name="theme_main_color_primary">#ff003366</color>
+    <color name="theme_search_color_primary">#ffffffff</color>
+    <color name="theme_main_color_accent">#ff003366</color>
+    <color name="theme_main_window_background">#fff8f8f8</color>
+    <color name="primary_dark_material_light">#fff8f8f8</color>
+    <color name="color_brand_primary">#ff003366</color>
+    <color name="color_primary">#ff003366</color>
+    <color name="subscribe_button_subscribe_font_color">#ff003366</color>
+    <color name="account_switcher_color_primary">#ff003366</color>
+    <color name="upload_edit_video_tutorial_background">#ff003366</color>
+    <color name="edit_theme_main_color_primary">#ff003366</color>
+    <color name="lc_live_icon_red">#ff003366</color>
+    <color name="small_icon_background">#ff003366</color>
+    <color name="upload_color_primary">#ff003366</color>
+    <color name="material_grey_600">#ff003366</color>
+    <color name="quantum_grey600">#ff003366</color>
+    <color name="theme_search_color_primary_dark">#ff003366</color>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_dark_material_light">#ff003366</color>
+    <color name="custom_facebook_blue">#ff003366</color>
+    <color name="fbui_facebook_blue">#ff003366</color>
+    <color name="fbui_facebook_blue_f0">#f0003366</color>
+    <color name="fb_blue">#ff003366</color>
+    <color name="rap_dark_blue">#ff003366</color>
+    <color name="fbui_facebook_blue_enabled">#e0003366</color>
+    <color name="fbui_facebook_blue_disabled">#c0003366</color>
+    <color name="fbui_facebook_blue_pressed">#f0003366</color>
+    <color name="orca_neue_primary">#ff003366</color>
+    <color name="orca_neue_primary_alpha_28">#47003366</color>
+    <color name="orca_neue_primary_alpha_30">#4d003366</color>
+    <color name="orca_neue_primary_alpha_40">#66003366</color>
+    <color name="bar_icon_color">#ff003366</color>
+    <color name="msgr_custom_threads_neue_primary">#ff003366</color>
+    <color name="messenger_blue">#ff003366</color>
+    <color name="voip_blue">#ff003366</color>
+    <color name="rtc_nux_button_color">#ff003366</color>
+    <color name="rtc_volume_level_color">#ff003366</color>
+    <color name="orca_neue_banner_background">#ff003366</color>
+    <color name="orca_neue_banner_button_text_light">#ff003366</color>
+    <color name="colour_picker_default_color">#ff003366</color>
+    <color name="action_blue_text_color">#ff003366</color>
+    <color name="payments_action_blue">#ff003366</color>
+    <color name="video_trimming_film_strip_selected_bar_color">#ff003366</color>
+    <color name="message_cap_banner_text_update_color">#ff003366</color>
+    <color name="message_cap_upgrade_button_color">#ff003366</color>
+    <color name="messenger_optin_content_clickable_text_color">#ff003366</color>
+    <color name="orca_reg_light_blue_button_text_color_enabled">#ff003366</color>
+    <color name="top_sms_contact_link_text_color">#ff003366</color>
+    <color name="orca_neue_thread_list_group_header_promo_background">#ff003366</color>
+    <color name="orca_neue_thread_list_survey_header_background">#ff003366</color>
+    <color name="default_line_indicator_selected_color">#ff003366</color>
+    <color name="messenger_icon_color">#ff003366</color>
+    <color name="button_background_color">#ff003366</color>
+    <color name="grey60">#ff003366</color>
+    <color name="msgr_material_status_bar">#ff003366</color>
+    <color name="media_info_header">#ff003366</color>
+    <color name="messenger_home_stacked_composer_bg">#ff003366</color>
+    <color name="msgr_material_blue_dark">#ff003366</color>
+
+
+</resources>

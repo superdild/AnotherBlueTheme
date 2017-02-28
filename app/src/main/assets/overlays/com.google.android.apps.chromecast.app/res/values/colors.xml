@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_lightblue_700">#ff003366</color>
+    <color name="md_lightblue_600">#ff003366</color>
+    <color name="md_lightblue_500">#ff003366</color>
+    <color name="md_lightblue_800">#ff003366</color>
+    <color name="md_grey_500">#ff336699</color>
+    <color name="material_grey_600">#ff003366</color>
+    <color name="drawer_text">#ff003366</color>
+
+    <color name="google_yellow_300">#ff003366</color>
+    <color name="quantum_googyellow300">#ff003366</color>
+
+    <color name="google_blue_500">#ff003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+</resources>

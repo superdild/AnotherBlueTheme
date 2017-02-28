@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="camera_gray_background">#ff003366</color>
+    <color name="camera_mode_color">#ff003366</color>
+    <color name="main_color_global">#ff003366</color>
+    <color name="video_mode_color">#ff336699</color>
+
+</resources>

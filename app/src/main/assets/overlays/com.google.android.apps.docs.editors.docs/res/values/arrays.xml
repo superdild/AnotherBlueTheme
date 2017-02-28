@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        <array name="color_picker_borders_blue">
+            <item>#ff06335b</item>
+            <item>#ff0a4c88</item>
+            <item>#ff487bb6</item>
+            <item>#ff0000eb</item>
+            <item>#ff669bcb</item>
+            <item>#ff93b6d6</item>
+            <item>#ffbfd0e0</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_cornflower_blue">
+            <item>#ff1a407c</item>
+            <item>#ff104ebc</item>
+            <item>#ff3871cb</item>
+            <item>#ff447bd6</item>
+            <item>#ff6492d9</item>
+            <item>#ff97b3e1</item>
+            <item>#ffb9c9e5</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_cyan">
+            <item>#ff0b3038</item>
+            <item>#ff124955</item>
+            <item>#ff407783</item>
+            <item>#ff00ebeb</item>
+            <item>#ff6d98a1</item>
+            <item>#ff95b5b9</item>
+            <item>#ffc0ced1</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_darkred">
+            <item>#ff540e00</item>
+            <item>#ff7b1d0b</item>
+            <item>#ff991a00</item>
+            <item>#ff8c0000</item>
+            <item>#ffbc3c22</item>
+            <item>#ffcc7463</item>
+            <item>#ffd4aaa1</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_green">
+            <item>#ff244812</item>
+            <item>#ff346d1b</item>
+            <item>#ff629b49</item>
+            <item>#ff00eb00</item>
+            <item>#ff87b573</item>
+            <item>#ffa8c69b</item>
+            <item>#ffc8d8c2</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_grey">
+            <item>@android:color/black</item>
+            <item>#ff434343</item>
+            <item>#ff5e5e5e</item>
+            <item>#ff8d8d8d</item>
+            <item>#ffa9a9a9</item>
+            <item>#ffbcbcbc</item>
+            <item>#ffc8c8c8</item>
+            <item>#ffdcdcdc</item>
+            <item>#ffe0e0e0</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_magenta">
+            <item>#ff46102c</item>
+            <item>#ff6b1941</item>
+            <item>#ff994770</item>
+            <item>#ffeb00eb</item>
+            <item>#ffb37193</item>
+            <item>#ffc499ae</item>
+            <item>#ffd8c1cb</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_orange">
+            <item>#ff6f3a04</item>
+            <item>#ffa65806</item>
+            <item>#ffd48634</item>
+            <item>#ffeb8d00</item>
+            <item>#ffe3a463</item>
+            <item>#ffe5bb90</item>
+            <item>#ffe8d3bd</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_purple">
+            <item>#ff1d1147</item>
+            <item>#ff311a6c</item>
+            <item>#ff5f489a</item>
+            <item>#ff8d00eb</item>
+            <item>#ff8372b4</item>
+            <item>#ffa69ac5</item>
+            <item>#ffc8c2d7</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_red">
+            <item>#ff5e0000</item>
+            <item>#ff8d0000</item>
+            <item>#ffbc0000</item>
+            <item>#ffeb0000</item>
+            <item>#ffce5e5e</item>
+            <item>#ffd88d8d</item>
+            <item>#ffe1bcbc</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_borders_yellow">
+            <item>#ff755800</item>
+            <item>#ffb08500</item>
+            <item>#ffdeb32e</item>
+            <item>#ffebeb00</item>
+            <item>#ffebc85e</item>
+            <item>#ffebd38d</item>
+            <item>#ffebdfbc</item>
+            <item>#ffebebeb</item>
+        </array>
+        <array name="color_picker_colors_blue">
+            <item>#ff073763</item>
+            <item>#ff0b5394</item>
+            <item>#ff3d85c6</item>
+            <item>#ff0000ff</item>
+            <item>#ff6fa8dc</item>
+            <item>#ff9fc5e8</item>
+            <item>#ffcfe2f3</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_cornflower_blue">
+            <item>#ff1c4587</item>
+            <item>#ff1155cc</item>
+            <item>#ff3c78d8</item>
+            <item>#ff4a86e8</item>
+            <item>#ff6d9eeb</item>
+            <item>#ffa4c2f4</item>
+            <item>#ffc9daf8</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_cyan">
+            <item>#ff0c343d</item>
+            <item>#ff134f5c</item>
+            <item>#ff45818e</item>
+            <item>#ff00ffff</item>
+            <item>#ff76a5af</item>
+            <item>#ffa2c4c9</item>
+            <item>#ffd0e0e3</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_darkred">
+            <item>#ff5b0f00</item>
+            <item>#ff85200c</item>
+            <item>#ffa61c00</item>
+            <item>#ff980000</item>
+            <item>#ffcc4125</item>
+            <item>#ffdd7e6b</item>
+            <item>#ffe6b8af</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_green">
+            <item>#ff274e13</item>
+            <item>#ff38761d</item>
+            <item>#ff6aa84f</item>
+            <item>#ff00ff00</item>
+            <item>#ff93c47d</item>
+            <item>#ffb6d7a8</item>
+            <item>#ffd9ead3</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_grey">
+            <item>@android:color/black</item>
+            <item>#ff434343</item>
+            <item>#ff666666</item>
+            <item>#ff999999</item>
+            <item>#ffb7b7b7</item>
+            <item>#ffcccccc</item>
+            <item>#ffd9d9d9</item>
+            <item>#ffefefef</item>
+            <item>#fff3f3f3</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_magenta">
+            <item>#ff4c1130</item>
+            <item>#ff741b47</item>
+            <item>#ffa64d79</item>
+            <item>#ffff00ff</item>
+            <item>#ffc27ba0</item>
+            <item>#ffd5a6bd</item>
+            <item>#ffead1dc</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_orange">
+            <item>#ff783f04</item>
+            <item>#ffb45f06</item>
+            <item>#ffe69138</item>
+            <item>#ffff9900</item>
+            <item>#fff6b26b</item>
+            <item>#fff9cb9c</item>
+            <item>#fffce5cd</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_purple">
+            <item>#ff20124d</item>
+            <item>#ff351c75</item>
+            <item>#ff674ea7</item>
+            <item>#ff9900ff</item>
+            <item>#ff8e7cc3</item>
+            <item>#ffb4a7d6</item>
+            <item>#ffd9d2e9</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_red">
+            <item>#ff660000</item>
+            <item>#ff990000</item>
+            <item>#ffcc0000</item>
+            <item>#ffff0000</item>
+            <item>#ffe06666</item>
+            <item>#ffea9999</item>
+            <item>#fff4cccc</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_colors_yellow">
+            <item>#ff7f6000</item>
+            <item>#ffbf9000</item>
+            <item>#fff1c232</item>
+            <item>#ffffff00</item>
+            <item>#ffffd966</item>
+            <item>#ffffe599</item>
+            <item>#fffff2cc</item>
+            <item>@android:color/white</item>
+        </array>
+        <array name="color_picker_restricted_colors">
+            <item>#ffffff00</item>
+            <item>#ff00ff00</item>
+            <item>#ff00ffff</item>
+            <item>#ffff00ff</item>
+            <item>#ff0000ff</item>
+            <item>#ffff0000</item>
+            <item>#ff000080</item>
+            <item>#ff008080</item>
+            <item>#ff008000</item>
+            <item>#ff800080</item>
+            <item>#ff800000</item>
+            <item>#ff808000</item>
+            <item>#ff808080</item>
+            <item>#ffc0c0c0</item>
+            <item>#ff000000</item>
+        </array>
+        <array name="font_faces" />
+        <string-array name="font_picker_heading_names">
+            <item>Normal text</item>
+            <item>Title</item>
+            <item>Subtitle</item>
+            <item>Heading 1</item>
+            <item>Heading 2</item>
+            <item>Heading 3</item>
+            <item>Heading 4</item>
+            <item>Heading 5</item>
+            <item>Heading 6</item>
+        </string-array>
+        <string-array name="font_sizes">
+            <item>8</item>
+            <item>9</item>
+            <item>10</item>
+            <item>11</item>
+            <item>12</item>
+            <item>14</item>
+            <item>16</item>
+            <item>18</item>
+            <item>20</item>
+            <item>22</item>
+            <item>24</item>
+            <item>26</item>
+            <item>28</item>
+            <item>36</item>
+            <item>48</item>
+            <item>72</item>
+        </string-array>
+        -->
+    <array name="letter_tile_colors">
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+        <item>#ff003366</item>
+    </array>
+
+</resources>

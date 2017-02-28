@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="delete_target_hover_tint">#ffc1c1c1</color>
+     <color name="uninstall_target_hover_tint">#fff0592b</color>
+     <color name="info_target_hover_tint">#ff009688</color>
+     <color name="cling_scrim_background">#80000000</color>
+     <color name="focused_background">#80c6c5c5</color>
+     <color name="workspace_icon_text_color">#ffffffff</color>
+     <color name="workspace_edge_effect_color">#ffffffff</color>
+     <color name="folder_edge_effect_color">#ff757575</color> -->
+    <color name="workspace_icon_text_color">#ffffffff</color>
+    <color name="quantum_panel_text_color">#ffefefef</color>
+    <color name="quantum_panel_bg_color">#66336699</color>
+    <color name="quantum_panel_bg_color_dark">#ff336699</color>
+    <color name="all_apps_container_color">#66336699</color>
+    <color name="container_fastscroll_thumb_inactive_color">#ff003366</color>
+    <color name="container_fastscroll_thumb_active_color">#ff003366</color>
+    <color name="all_apps_grid_section_text_color">#ff003366</color>
+    <color name="accent">#ff003366</color>
+    <color name="primary_color">#ff003366</color>
+    <color name="primary_dark_color">#ff003366</color>
+
+    <color name="launcher_accent_color">#ffffffff</color>
+</resources>

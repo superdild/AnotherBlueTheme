@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_color">#ff003366</color>
+    <color name="dialer_settings_actionbar_background_color">#ff003366</color>
+    <color name="dialer_settings_color_dark">#ff003366</color>
+</resources>

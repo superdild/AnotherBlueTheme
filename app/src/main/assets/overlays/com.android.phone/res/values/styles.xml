@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NetworkOperatorsSettingsTheme"
+        parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="android:statusBarColor">#ff003366</item>
+    </style>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="m_app_status_bar_docs">#ff003366</color>
+    <color name="quantum_googblue700">#ff003366</color>
+    <color name="m_app_primary_docs">#ff003366</color>
+    <color name="m_color_accent">#ff003366</color>
+    <color name="manage_addons_accent">#ff003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+    <color name="warm_welcome_page_1">#ff003366</color>
+    <color name="quantum_googred500">#ff003366</color>
+    <color name="m_material_snackbar_bg">#ff003366</color>
+    <color name="m_toast_background">#ff003366</color>
+    <color name="snack_bar_background">#ff003366</color>
+    <color name="quantum_grey400">#ff003366</color>
+    <color name="m_cool_grey_70">#ff003366</color>
+    <color name="material_grey_600">#ff003366</color>
+    <color name="quantum_grey600">#ff003366</color>
+    <color name="m_app_status_bar_sheets">#ff003366</color>
+    <color name="m_app_status_bar_slides">#ff003366</color>
+    <color name="quantum_googgreen700">#ff003366</color>
+    <color name="file_googgreen">#ff003366</color>
+    <color name="m_app_primary_sheets">#ff003366</color>
+   <color name="quantum_googgreen500">#ff003366</color>
+    <color name="quantum_googyellow700">#ff003366</color>
+    <color name="m_app_primary_slides">#ff003366</color>
+    <color name="quantum_googyellow500">#ff003366</color>
+</resources>

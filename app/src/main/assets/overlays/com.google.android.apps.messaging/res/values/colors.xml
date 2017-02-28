@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="action_bar_background_color_dark">#ff003366</color>
+    <color name="compose_notification_bar_background">#ff003366</color>
+    <color name="action_bar_background_color">#ff003366</color>
+    <color name="contact_list_alphabet_header">#ff003366</color>
+    <color name="notification_accent_color">#ff003366</color>
+    <color name="fab_color">#ff003366</color>
+    <color name="archived_conversation_action_bar_background_color_dark">#ff003366</color>
+    <color name="archived_conversation_action_bar_background_color">#ff003366</color>
+    <color name="compose_message_send_color_pressed">#ff336699</color>
+    <color name="compose_message_send_color">#ff003366</color>
+    <color name="primary_text_default_material_light">#ff003366</color>
+    <color name="secondary_text_default_material_light">#aa003366</color>
+    <color name="primary_text_disabled_material_light">#ff336699</color>
+    <color name="secondary_text_disabled_material_light">#aa336699</color>
+    <color name="primary_color">#ff003366</color>
+    <color name="message_image_selected_tint">#80003366</color>
+    <color name="text_highlight_color">#80003366</color>
+    <color name="letter_tile_default_secondary_color">#ff336699</color>
+    <color name="letter_tile_default_primary_color">#ff336699</color>
+</resources>

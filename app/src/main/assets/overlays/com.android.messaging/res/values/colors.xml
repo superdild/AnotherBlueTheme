@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="action_bar_background_color_dark">#ff003366</color>
+    <color name="primary_color">#ff003366</color>
+    <color name="message_image_selected_tint">#80003366</color>
+    <color name="text_highlight_color">#80003366</color>
+    <color name="fab_color">#ff003366</color>
+    <color name="fab_pressed_color">#ff336699</color>
+    <color name="message_bubble_color_selected">#ff336699</color>
+    <color name="mms_indicator_color">#ff336699</color>
+
+</resources>

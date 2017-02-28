@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="details_status_bar_color">#ff003366</color>
+    <color name="accent_blue">#ff003366</color>
+    <color name="blue">#ff003366</color>
+    <color name="chips_dropdown_background_activated">#ff003366</color>
+    <color name="chips_dropdown_permission_text">#ff003366</color>
+    <color name="event_info_checked_response">#ff003366</color>
+    <color name="feature_highlight_outer_color">#ff003366</color>
+    <color name="google_blue">#ff003366</color>
+    <color name="preference_option_selected">#ff003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+    <color name="suggestion_edit_text_chip_background_selected">#ff003366</color>
+    <color name="swipe_refresh_color3">#ff003366</color>
+
+    <color name="material_deep_teal_500">#ff003366</color>
+    <color name="quantum_teal500">#ff003366</color>
+
+    <color name="google_red">#ff003366</color>
+    <color name="quantum_googred500">#ff003366</color>
+
+    <color name="quantum_googyellow400">#ff003366</color>
+    <color name="quantum_deeporange600">#ff003366</color>
+
+
+</resources>

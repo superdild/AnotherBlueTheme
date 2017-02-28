@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_material_dark">#ff003366</color>
+    <color name="button_material_light">#ff336699</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff003366</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="calculator_accent_color">#ff003366</color>
+    <!-- colore status Bar-->
+    <color name="calculator_error_color">#fff40056</color>
+    <color name="display_background_color">#ffffffff</color>
+    <color name="display_formula_text_color">#8a003366</color>
+    <!-- colore testo display calc -->
+    <color name="display_result_text_color">#6c003366</color>
+    <!-- colore testo display calc -->
+    <color name="pad_numeric_background_color">#ff003366</color>
+    <!-- sfondo tastierino numerico -->
+    <color name="pad_operator_background_color">#ff336699</color>
+    <!-- sfondo operatori -->
+    <color name="pad_advanced_background_color">#ff66bbff</color>
+    <!-- sfondo operazioni avanzate -->
+</resources>

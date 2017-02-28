@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quantum_panel_text_color">#ffeeeeee</color>
+    <color name="action_card_blue">#ff003366</color>
+    <color name="qp_blue">#ff003366</color>
+    <color name="qp_blue_dark">#ff003366</color>
+    <color name="quantum_panel_bg_color">#80003366</color>
+    <color name="quantum_panel_bg_color_dark">#ff003366</color>
+    <color name="all_apps_scrollbar_thumb_color">#ff336699</color>
+    <color name="qp_status_none">#ff003366</color>
+    <color name="activity_background">#ff336699</color>
+    <color name="search_plate_hint_text_color">#ff336699</color>
+    <color name="search_plate_text_color">#ff003366</color>
+    <color name="voice_input_text_color">#de003366</color>
+    <color name="suggestion_primary_text">#ff003366</color>
+    <color name="suggestion_secondary_text">#ff336699</color>
+    <color name="manage_accounts_text_color">#ff003366</color>
+    <color name="action_card_dark_grey">#ff003366</color>
+
+    <color name="suggest_text_normal">#ff003366</color>
+    <color name="suggest_text_disabled">#80003366</color>
+    <color name="suggest_text_inverse">#ff003366</color>
+    <color name="navigation_button_color">#ff003366</color>
+    <color name="gray_700">#ff003366</color>
+    <color name="qp_drawer_text">#ff336699</color>
+    <color name="qp_drawer_icon">#ff003366</color>
+    <color name="widget_text_panel">#ff0000ff</color>
+    <color name="qp_text_b1">#ff336699</color>
+    <color name="qp_text_b2">#ff003366</color>
+    <color name="qp_text_b3">#ff003366</color>
+    <color name="qp_text_w2">#ff336699</color>
+    <color name="ic_orb_listening">#ff003366</color>
+    <color name="ic_orb_loading">#ff336699</color>
+    <color name="ic_orb_tts">#ff336699</color>
+    <color name="ic_mic_shadow_color">#ff336699</color>
+    <color name="ic_g_idle_color">#ff336699</color>
+    <color name="ic_mic_color">#ffffffff</color>
+    <color name="card_separator">#66336699</color>
+    <color name="container_fastscroll_thumb_active_color">#ff003366</color>
+    <color name="quantum_grey700">#ff003366</color>
+    <color name="speech_blue">#ff003366</color>
+    <color name="teardrop_color">#ff00ff00</color>
+    <color name="active_tab_color">#ffff0000</color>
+    <color name="blue">#ff003366</color>
+    <color name="countdown_bar">#ffffff00</color>
+    <color name="custom_tabs_toolbar_color">#ff336699</color>
+    <color name="google_blue">#ff003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+    <color name="ripple_color">#ff003366</color>
+    <color name="material_blue_grey_900">#ff336699</color>
+    <color name="quantum_bluegrey900">#ff336699</color>
+
+
+    <color name="container_fastscroll_thumb_inactive_color">#ff336699</color>
+    <color name="launcher_accent_color">#cc336699</color>
+    <color name="material_deep_teal_500">#ff336699</color>
+    <color name="quantum_teal500">#ff336699</color>
+    <color name="status_bar_background">#ff003366</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tumblr_dark">#ff003366</color>
+    <color name="tumblr_100">#ff003366</color>
+    <color name="tumblr_navy_100">#ff003366</color>
+    <color name="chat_post_color">#ff336699</color>
+    <color name="tumblr_accent">#ff336699</color>
+    <color name="tumblr_bright_blue">#ff336699</color>
+
+
+</resources>

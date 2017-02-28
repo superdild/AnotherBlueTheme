@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_color_material">#ff003366</color>
+    <color name="grey_500">#ff003366</color>
+    <color name="molecule__md_grey_500">#ff003366</color>
+    <color name="notification_icon_bg_color">#ff003366</color>
+    <color name="play_fg_tertiary">#ff003366</color>
+    <color name="app_color_material_dark">#ff003366</color>
+    <color name="play_newsstand_secondary_v2">#ff003366</color>
+    <color name="play_newsstand_primary_v2">#ff003366</color>
+    <color name="design_snackbar_background_color">#ff003366</color>
+    <color name="actionable_toast_bar_action_text">#aaffff00</color>
+    <color name="status_bar_color">#ff003366</color>
+    <color name="status_bar_color_light">#ff003366</color>
+    <color name="grey_600">#ff003366</color>
+    <color name="material_grey_600">#ff003366</color>
+    <color name="molecule__md_grey_600">#ff003366</color>
+    <color name="play_icon_default">#ff003366</color>
+    <color name="material_deep_teal_500">#ff003366</color>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">#ff003366</item>
+      <!--  <item name="android:colorPrimary">#ffff0000</item> -->
+        <item name="android:textColorPrimary">#ff003366</item>
+        <item name="android:textColor">#ff336699</item>
+        <item name="android:textSize">14.0dp</item>
+    </style>
+</resources>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="material_grey_600">#ff003366</color>
+    <color name="quantum_grey600">#ff003366</color>
+    <color name="quantum_googblue700">#ff003366</color>
+    <color name="current_account_banner_bg">#ff003366</color>
+    <color name="hats_lib_open_text_underline">#ff003366</color>
+    <color name="hats_lib_prompt_take_survey_blue">#ff003366</color>
+    <color name="mm_dark_blue">#ff003366</color>
+    <color name="mm_dark_blue_translucent">#ee003366</color>
+    <color name="photos_actionpromo_quantum_googblue_96percent">#f5003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+    <color name="quantum_googblue500_54">#8b003366</color>
+    <color name="photos_theme_status_bar_color">#ff003366</color>
+    <color name="status_bar_background">#ff003366</color>
+    <color name="quantum_tealA700">#ff003366</color>
+
+</resources>

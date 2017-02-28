@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color_secondary_text_material_light">#ff336699</color>
+    <color name="data_usage_fill_color">#ff336699</color>
+    <!-- colore del traffico dati impostazioni - Utilizzo Dati -->
+    <color name="switchbar_background_color">#ff003366</color>
+    <!-- colore SwitchBar -->
+    <color name="switchbar_text_color">#ffffffff</color>
+    <!-- colore testo della Switch bar -->
+    <color name="switch_accent_color">#ff003366</color>
+    <!-- colore switch della switchbar -->
+    <color name="divider_color">#ffffffff</color>
+    <color name="dashboard_category_background_color">@drawable/dashboard_category_background
+    </color>
+    <color name="running_processes_apps_ram">#ff336699</color>
+    <color name="memory_normal">#ff336699</color>
+    <color name="memory_max_use">#ff336699</color>
+    <color name="usage_graph_dots">#ff336699</color>
+
+    <color name="dashboard_category_title_background">#ff336699</color>
+    <color name="selectable_card_background">#ffefefef</color>
+    <color name="card_background">#ffffff00</color>
+
+    <color name="material_blue_500">#ff003366</color>
+    <color name="wifi_divider">#ffffffff</color>
+
+</resources>

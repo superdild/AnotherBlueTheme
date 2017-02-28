@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="photo_status_bar_black">#d9000000</color>
+    <color name="status_bar_apps">#ff003366</color>
+    <color name="status_bar_apps_ent">#ff003366</color>
+    <color name="status_bar_apps_v2">#ff003366</color>
+    <color name="status_bar_books">#ff003366</color>
+    <color name="status_bar_books_v2">#ff003366</color>
+    <color name="status_bar_movies">#ff003366</color>
+    <color name="status_bar_movies_v2">#ff003366</color>
+    <color name="status_bar_multi">#ff003366</color>
+    <color name="status_bar_music">#ff003366</color>
+    <color name="status_bar_music_v2">#ff003366</color>
+    <color name="status_bar_newsstand">#ff003366</color>
+    <color name="status_bar_newsstand_v2">#ff003366</color>
+    <color name="status_bar_overlay">#ff003366</color>
+
+    <color name="play_apps_primary">#ff336699</color>
+    <color name="play_apps_primary_disabled">#ff336699</color>
+    <color name="play_apps_primary_v2">#ff003366</color>
+    <color name="play_apps_recents">#ff003366</color>
+    <color name="play_apps_secondary">#ff336699</color>
+    <color name="play_apps_secondary_v2">#ff336699</color>
+
+    <color name="play_banner_dark_fg">#ffff0000</color>
+    <color name="play_banner_light_fg">#ff00ff00</color>
+
+    <color name="play_movies_primary">#ff336699</color>
+    <color name="play_movies_primary_disabled">#ff336699</color>
+    <color name="play_movies_primary_v2">#ff003366</color>
+    <color name="play_movies_recents">#ff003366</color>
+    <color name="play_movies_secondary">#ff336699</color>
+    <color name="play_movies_secondary_v2">#ff336699</color>
+
+    <color name="play_books_primary">#ff336699</color>
+    <color name="play_books_primary_disabled">#ff336699</color>
+    <color name="play_books_primary_v2">#ff003366</color>
+    <color name="play_books_recents">#ff003366</color>
+    <color name="play_books_secondary">#ff336699</color>
+    <color name="play_books_secondary_v2">#ff336699</color>
+
+    <color name="play_music_primary">#ff336699</color>
+    <color name="play_music_primary_disabled">#ff336699</color>
+    <color name="play_music_primary_v2">#ff003366</color>
+    <color name="play_music_recents">#ff003366</color>
+    <color name="play_music_secondary">#ff336699</color>
+    <color name="play_music_secondary_v2">#ff336699</color>
+
+    <color name="play_newsstand_primary">#ff336699</color>
+    <color name="play_newsstand_primary_disabled">#ff336699</color>
+    <color name="play_newsstand_primary_v2">#ff003366</color>
+    <color name="play_newsstand_recents">#ff003366</color>
+    <color name="play_newsstand_secondary">#ff336699</color>
+    <color name="play_newsstand_secondary_v2">#ff336699</color>
+
+    <color name="family_library_setup_primary">#ff003366</color>
+    <color name="play_icon_selected">#ff003366</color>
+    <color name="play_multi_primary">#ff003366</color>
+    <color name="play_multi_primary_disabled">#ff003366</color>
+    <color name="play_multi_secondary">#ff336699</color>
+    <color name="play_multi_recents">#ff003366</color>
+
+    <color name="material_deep_teal_500">#ff003366</color>
+
+    <color name="play_fg_primary">#ff003366</color>
+    <!-- testo primario 212121 -->
+    <color name="play_fg_purchase_secondary">#ff003366</color>
+    <!-- testo menu 8d8d8d -->
+    <color name="play_fg_secondary">#ff336699</color>
+
+    <!-- <color name="material_blue_grey_800">#ffff0000</color>
+     <color name="material_blue_grey_900">#ff00ff00</color>
+     <color name="material_blue_grey_950">#ff0000ff</color>
+     <color name="material_deep_teal_200">#ffffff00</color>
+     <color name="material_deep_teal_500">#ffff00ff</color>
+     <color name="material_grey_100">#ff00ffff</color>
+     <color name="material_grey_300">#ffff0000</color>
+     <color name="material_grey_50">#ff00ff00</color>
+     <color name="material_grey_600">#ff0000ff</color>
+     <color name="material_grey_800">#ffff00ff</color>
+     <color name="material_grey_850">#ffffff00</color>
+     <color name="material_grey_900">#ff00ffff</color> -->
+
+
+</resources>

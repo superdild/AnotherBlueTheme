@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="camera_gray_background">#ff003366</color>
+    <color name="camera_mode_color">#ff003366</color>
+    <color name="main_color_global">#ff003366</color>
+    <color name="video_mode_color">#ff336699</color>
+    <color name="black">#ff003366</color>
+    <color name="camera_black_background">#ff003366</color>
+    <color name="material_grey_850">#ff003366</color>
+    <color name="settings_actionbar_color">#ff003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+    <color name="snackbar_blue">#ff003366</color>
+    <color name="mode_selector_icon_highlight">#ff003366</color>
+    <color name="dialog_button_color">#ff003366</color>
+    <color name="blue_button_background_color">#ff003366</color>
+    <color name="burst_editor_fab_bg_color">#ff003366</color>
+    <color name="burst_editor_selected_bg_color">#ff003366</color>
+    <color name="settings_accent_color">#ff003366</color>
+    <color name="processing_notification">#ff003366</color>
+    <color name="fullscreen_dialog_background_color">#ff003366</color>
+
+    <color name="filmstrip_system_ui_background">#48003366</color>
+    <color name="camera_button_background">#4d003366</color>
+
+</resources>

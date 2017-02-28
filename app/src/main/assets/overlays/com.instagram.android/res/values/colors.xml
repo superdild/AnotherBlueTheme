@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="status_bar_grey_background">#ff003366</color>
+    <color name="status_bar_background">#ff003366</color>
+    <color name="grey_9">#ff003366</color>
+    <color name="tabbar_black">#ff003366</color>
+    <color name="grey_4">#ff003366</color>
+
+</resources>

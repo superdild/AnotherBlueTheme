@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="searchbox_background_color">#ffefefef</color>
+    <color name="dialtacts_primary_text_color">#ff003366</color>
+    <color name="dialtacts_secondary_text_color">#ff336699</color>
+    <color name="dialer_theme_color">#ff003366</color>
+    <color name="dialer_theme_color_dark">#ff003366</color>
+    <color name="dialtacts_theme_color">#ff003366</color>
+    <color name="focus_color">#44003366</color>
+    <color name="ripple_material_dark">#20336699</color>
+    <color name="dialer_dialpad_touch_tint">#33336699</color>
+    <color name="incall_dialpad_touch_tint">#33336699</color>
+    <color name="suggestion_highlight_text">#ff800000</color>
+    <color name="actionbar_background_color">#ff003366</color>
+    <color name="actionbar_icon_color">#ffffffff</color>
+    <color name="actionbar_background_color_dark">#ffffffff</color>
+    <color name="floating_action_button_touch_tint">#80336699</color>
+    <color name="recent_call_log_item_phone_icon_tint">#ff000000</color>
+    <color name="call_log_extras_text_color">#ff336699</color>
+    <color name="item_selected">#66003366</color>
+    <color name="dialer_red_highlight_color">#ff003366</color>
+    <color name="dialer_green_highlight_color">#ff336699</color>
+    <color name="searchbox_icon_tint">#ff336699</color>
+    <color name="call_stats_incoming">#ff336699</color>
+    <color name="call_stats_outgoing">#ff336699</color>
+    <color name="call_stats_missed">#ff336699</color>
+    <color name="call_stats_blacklist">#ff336699</color>
+    <color name="call_stats_bar_background">#88888888</color>
+    <color name="section_header_text_color">#ff003366</color>
+</resources>

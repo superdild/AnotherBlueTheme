@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#ff003366</color>
+    <color name="google_blue">#ff003366</color>
+    <color name="multiwaypoint_promo_background">#ee003366</color>
+    <color name="new_location_accuracy_fill">#23003366</color>
+    <color name="new_location_accuracy_line">#73003366</color>
+    <color name="qu_google_blue_500">#ff003366</color>
+    <color name="qu_google_blue_alpha_26">#42003366</color>
+    <color name="quantum_googblue500">#ff003366</color>
+    <color name="light_grey">#ff003366</color>
+    <color name="light_grey_transparent">#00003366</color>
+    <color name="date_picker_text_normal">#ff003366</color>
+    <color name="material_grey_600">#ff003366</color>
+    <color name="qu_grey_600">#ff003366</color>
+    <color name="quantum_grey600">#ff003366</color>
+
+</resources>

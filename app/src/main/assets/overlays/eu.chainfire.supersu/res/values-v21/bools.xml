@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="default_icon_emblem">false</bool>
+    <bool name="default_icon_material">true</bool>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="ThemeName">AnotherBlueTheme</string>
+    <string name="ThemeAuthor">superdild</string>
+    <string name="ThemeMail">superdild@gmail.com</string>
+    <string-array name="ThemeChangelog">
+        <item>Bug Fixes</item>
+        <item>update substratum template</item>
+        <item>Change Three</item>
+        <item>Change Four</item>
+        <item>Change Five</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dashboard_category_title_margin_start">16.0dip</dimen>
+    <dimen name="dashboard_category_padding_start">3.0dip</dimen>
+    <dimen name="dashboard_category_padding_end">3.0dip</dimen>
+    <dimen name="settings_side_margin">0.0dip</dimen>
+    <dimen name="dashboard_padding_start">6.0dip</dimen>
+    <dimen name="dashboard_padding_end">6.0dip</dimen>
+    <dimen name="dashboard_padding_top">6.0dip</dimen>
+    <dimen name="dashboard_padding_bottom">6.0dip</dimen>
+    <dimen name="divider_height">0.0dip</dimen>
+    <dimen name="vert_divider_width">6.0dip</dimen>
+    <dimen name="wifi_divider_height">0.0px</dimen>
+
+
+</resources>

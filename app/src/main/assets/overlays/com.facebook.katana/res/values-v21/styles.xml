@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Facebook.Overlay" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimaryDark">#ff003366</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff003366</item>
+    </style>
+    <style name="Theme.Facebook.Transparent" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimaryDark">#ff003366</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff003366</item>
+    </style>
+</resources>

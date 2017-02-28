@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ripple_material_light">#40336699</color>
+    <color name="primary_text_default_material_light">#ff003366</color>
+    <color name="secondary_text_default_material_light">#ff336699</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_dark">#bbffffff</color>
+    <color name="material_deep_teal_200">#ff003366</color>
+    <color name="material_deep_teal_500">#ff003366</color>
+    <color name="material_blue_grey_800">#ff003366</color>
+    <color name="material_blue_grey_900">#ff003366</color>
+    <color name="material_blue_grey_950">#ff003366</color>
+
+    <color name="primary_device_default_dark">#ff003366</color>
+    <color name="accent_device_default_dark">#ff4285f4</color>
+    <color name="accent_device_default_light">#ff336699</color>
+    <color name="secondary_device_default_settings">#ff003366</color>
+    <color name="system_bar_background_semi_transparent">#ff003366</color>
+
+    <!-- <color name="black">#ff003366</color>
+    <color name="background_light">#ff00ffff</color> -->
+
+    <color name="primary_device_default_settings">#ff003366</color>
+    <color name="primary_dark_device_default_settings">#ff003366</color>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color_dark">#ff003366</color>
+    <color name="primary_color">#ff003366</color>
+    <color name="toast_bar_action_text_color">#ff003366</color>
+    <color name="secondary_yellow">#e6003366</color>
+    <color name="neutral_pressed">#33003366</color>
+    <color name="date_picker_text_normal">#ff003366</color>
+    <color name="calendar_header">#ff003366</color>
+    <color name="pressed_state_color">#33003366</color>
+    <color name="primary_dark_default_color">#ff003366</color>
+    <color name="browse_secondary_status_bar_color">#ff003366</color>
+    <color name="action_bar_background_color">#ff003366</color>
+    <color name="hint_text_color">#ff003366</color>
+    <color name="primary_text_color">#ff003366</color>
+    <color name="secondary_default_color">#ff003366</color>
+    <color name="design_snackbar_background_color">#99336699</color>
+    <color name="actionMode_status_bar_color">#ff003366</color>
+    <color name="action_mode_background_color">#ff003366</color>
+    <color name="done_text_color_normal">#ff003366</color>
+    <color name="secondary_text_default_material_light">#ff003366</color>
+    <color name="trash_action_bar_background_color">#ff003366</color>
+    <color name="drawing_action_bar_background_color">#93ffffff</color>
+    <color name="quantum_grey600">#ff003366</color>
+</resources>

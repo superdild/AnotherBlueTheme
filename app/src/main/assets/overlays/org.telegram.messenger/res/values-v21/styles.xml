@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TMessages" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">#ff003366</item>
+        <item name="android:colorPrimaryDark">#ff003366</item>
+        <item name="android:colorAccent">#ff003366</item>
+    </style>
+
+    <style name="Theme.TMessages.Start" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">#ff003366</item>
+        <item name="android:colorPrimaryDark">#ff003366</item>
+        <item name="android:colorAccent">#ff003366</item>
+    </style>
+
+</resources>

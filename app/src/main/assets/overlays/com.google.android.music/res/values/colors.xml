@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="music_banner_color">#ff003366</color>
+    <color name="family_onboarding_button_color">#ff003366</color>
+    <color name="gifting_price_tag">#ff003366</color>
+    <color name="play_music_primary_v2">#ff003366</color>
+    <color name="play_music_secondary_v2">#ff003366</color>
+    <color name="play_newsstand_primary">#ff003366</color>
+    <color name="play_newsstand_primary_disabled">#80003366</color>
+    <color name="upsell_background">#ff003366</color>
+    <color name="play_icon_default">#ff336699</color>
+    <color name="gray_46">#ff003366</color>
+    <color name="material_grey_600">#ff003366</color>
+    <color name="play_fg_button_secondary">#ff003366</color>
+
+</resources>

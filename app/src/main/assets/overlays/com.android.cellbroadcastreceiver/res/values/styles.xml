@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CellBroadcastSettingsTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff003366</item>
+        <item name="android:colorPrimaryDark">#ff003366</item>
+        <item name="android:colorPrimary">@color/cell_broadcast_color_primary_dark</item>
+        <item name="android:textColorPrimary">#ff003366</item>
+        <item name="android:textColor">#ff336699</item>
+    </style>
+
+    <style name="CellBroadcastListActivityTheme" parent="@android:style/Theme.DeviceDefault.Light" >
+        <item name="android:statusBarColor">#ff003366</item>
+        </style>
+    <style name="CellBroadcastAlertDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" >
+        <item name="android:statusBarColor">#ff003366</item>
+    </style>
+    <style name="AlertFullScreenTheme" parent="@android:style/Theme.Material.Wallpaper.NoTitleBar" >
+        <item name="android:statusBarColor">#ff003366</item>
+    </style>
+
+
+</resources>

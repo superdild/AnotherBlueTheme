@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="all_apps_divider_color">#ff336699</color>
+
+    <color name="all_apps_caret_shadow_color">#ff336699</color>
+    <color name="all_apps_container_color">#cc003366</color>
+    <color name="all_apps_navbar_color">#ff003366</color> <!-- navbar -->
+    <color name="quantum_panel_text_color">#fff5f5f5</color> <!-- testo icone -->
+    <color name="quantum_panel_bg_color">#cc336699</color>
+
+
+</resources>
