@@ -6,7 +6,7 @@
     <!-- titoli voci menu g -->
     <color name="material_blue_grey_950">#ff003366</color>
     <!-- statusBar -->
-	<color name="material_teal_500">#ff003366</color>
+    <color name="material_teal_500">#ff003366</color>
     <color name="material_blue_grey_900">#ff003366</color>
     <!-- ActionBar -->
     <color name="material_blue_grey_800">#ff336699</color>

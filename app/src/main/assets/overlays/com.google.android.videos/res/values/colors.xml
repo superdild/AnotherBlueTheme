@@ -5,6 +5,6 @@
     <color name="play_movies_primary_v2">#ff003366</color>
     <color name="play_movies_secondary_v2">#ff003366</color>
     <color name="material_grey_600">#ff003366</color>
-     <color name="play_icon_default">#ff336699</color>
+    <color name="play_icon_default">#ff336699</color>
 
 </resources>

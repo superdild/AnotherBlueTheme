@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape android:shape="rectangle" flag="CATEGORY_SUGGESTION_RANKING"
-  xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android">
     <corners android:radius="16.0sp" />
     <solid android:color="#ff003366" />
 </shape>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-       <color name="standalone_actionbar_background">#ff003366</color>
-       <color name="m_app_primary">#ff003366</color>
-       <color name="m_app_status_bar">#ff003366</color>
+    <color name="standalone_actionbar_background">#ff003366</color>
+    <color name="m_app_primary">#ff003366</color>
+    <color name="m_app_status_bar">#ff003366</color>
 
-       
+
 </resources>

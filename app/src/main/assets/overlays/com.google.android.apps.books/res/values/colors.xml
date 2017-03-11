@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="material_light_blue_800">#ff003366</color>
-	<color name="play_books_secondary">#ff003366</color>
-	<color name="play_books_recents">#ff003366</color>
-	<color name="books_corpora_dark_66pc">#aa003366</color>
-	<color name="books_corpora_dark_ripple">#60003366</color>
-	<color name="material_light_blue_600">#ff003366</color>
-	<color name="play_books_primary">#ff003366</color>
-	<color name="play_books_primary_disabled">#80003366</color>
-	<color name="books_corpora_primary_66pc">#aa003366</color>
-	<color name="books_corpora_primary_60pc">#99003366</color>
-	<color name="books_corpora_primary_50pc">#80003366</color>
-	<color name="books_corpora_primary_40pc">#66003366</color>
-	<color name="books_corpora_primary_20pc">#33003366</color>
-	<color name="material_grey_700">#ff003366</color>
-	<color name="switch_thumb_disabled_material_dark">#77003366</color>
-	<color name="play_fg_secondary_half_transparent">#70003366</color>
-	<color name="play_fg_secondary">#ff003366</color>
-	<color name="play_search_plate_navigation_button_color">#ff003366</color>
+    <color name="play_books_secondary">#ff003366</color>
+    <color name="play_books_recents">#ff003366</color>
+    <color name="books_corpora_dark_66pc">#aa003366</color>
+    <color name="books_corpora_dark_ripple">#60003366</color>
+    <color name="material_light_blue_600">#ff003366</color>
+    <color name="play_books_primary">#ff003366</color>
+    <color name="play_books_primary_disabled">#80003366</color>
+    <color name="books_corpora_primary_66pc">#aa003366</color>
+    <color name="books_corpora_primary_60pc">#99003366</color>
+    <color name="books_corpora_primary_50pc">#80003366</color>
+    <color name="books_corpora_primary_40pc">#66003366</color>
+    <color name="books_corpora_primary_20pc">#33003366</color>
+    <color name="material_grey_700">#ff003366</color>
+    <color name="switch_thumb_disabled_material_dark">#77003366</color>
+    <color name="play_fg_secondary_half_transparent">#70003366</color>
+    <color name="play_fg_secondary">#ff003366</color>
+    <color name="play_search_plate_navigation_button_color">#ff003366</color>
 
     <color name="play_books_secondary_v2">#ff003366</color>
     <color name="play_books_primary_v2">#ff003366</color>
